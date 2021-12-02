@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davidyu-805414
 - 👀 I’m interested in React Native/React
-- 📫 How to reach me [E-mail](mailto:davidyu@pchome.tw)
+- 📫 Reach me on [E-mail](mailto:davidyu@pchome.tw)
